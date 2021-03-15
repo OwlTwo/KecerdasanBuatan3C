@@ -42,3 +42,5 @@ Ganti main.pdf apabila melakukan update
 ```
 Tiap Chapter harus ditambahkan
 ```
+Pada Main.tex ditambahkan chapterr jangan lupa 
+```
