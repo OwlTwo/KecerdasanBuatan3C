@@ -1,2 +1,2 @@
-# kecerdasanbuatan
-Modul Praktikum Kecerdasan Buatan
+# Panduan Proyek 2
+Panduan Proyek 2
